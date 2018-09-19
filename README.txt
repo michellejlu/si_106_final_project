@@ -1,6 +1,5 @@
 
 Student name: Michelle Lu	
-Student ID: 44434732
 
 
 
